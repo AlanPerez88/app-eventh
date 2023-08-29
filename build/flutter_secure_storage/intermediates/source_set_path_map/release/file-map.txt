@@ -1,0 +1,13 @@
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-window-1.0.0-beta04-0 /Users/alanperez/.gradle/caches/transforms-3/196fed55f097d803ed8689c12e879c52/transformed/jetified-window-1.0.0-beta04/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-security-crypto-1.1.0-alpha04-1 /Users/alanperez/.gradle/caches/transforms-3/4373b749c5cd70858cf0a6d27e794568/transformed/jetified-security-crypto-1.1.0-alpha04/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-window-java-1.0.0-beta04-2 /Users/alanperez/.gradle/caches/transforms-3/7c3f00c2335771859546f46efeddbf13/transformed/jetified-window-java-1.0.0-beta04/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-core-1.6.0-3 /Users/alanperez/.gradle/caches/transforms-3/89766d7d59fc7fc8d6e3690bb36b7e4a/transformed/core-1.6.0/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-annotation-experimental-1.1.0-4 /Users/alanperez/.gradle/caches/transforms-3/cba5034dea4c669b2d400a2c38d489c3/transformed/jetified-annotation-experimental-1.1.0/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-main-5 /Users/alanperez/.pub-cache/hosted/pub.dev/flutter_secure_storage-8.0.0/android/src/main/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-release-6 /Users/alanperez/.pub-cache/hosted/pub.dev/flutter_secure_storage-8.0.0/android/src/release/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-pngs-7 /Users/alanperez/Documents/flutter/eventh/build/flutter_secure_storage/generated/res/pngs/release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-resValues-8 /Users/alanperez/Documents/flutter/eventh/build/flutter_secure_storage/generated/res/resValues/release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-rs-9 /Users/alanperez/Documents/flutter/eventh/build/flutter_secure_storage/generated/res/rs/release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-mergeReleaseResources-10 /Users/alanperez/Documents/flutter/eventh/build/flutter_secure_storage/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-mergeReleaseResources-11 /Users/alanperez/Documents/flutter/eventh/build/flutter_secure_storage/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-merged_res-12 /Users/alanperez/Documents/flutter/eventh/build/flutter_secure_storage/intermediates/merged_res/release
