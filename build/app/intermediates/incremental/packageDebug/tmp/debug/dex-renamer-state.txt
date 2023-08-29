@@ -1,4 +1,0 @@
-#Mon Aug 28 21:54:32 CLT 2023
-base.0=/Users/alanperez/Documents/flutter/eventh/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
